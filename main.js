@@ -3,7 +3,7 @@ function generateSerial() {
 
 	var chars = "1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz",
 
-		serialLength = 20,
+		serialLength = 8,
 
 		randomSerial = '',
 
